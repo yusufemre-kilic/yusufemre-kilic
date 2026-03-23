@@ -1,4 +1,4 @@
-# 👨‍💻 Selam, Ben [Yusuf Emre Kılıç]!
+# 👨‍💻 Selam, Ben [yusufemre-kilic]!
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Hakkımda-blue?style=for-the-badge&logo=appveyor&logoColor=white" alt="Hakkımda" />
