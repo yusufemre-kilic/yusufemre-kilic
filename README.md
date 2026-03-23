@@ -56,7 +56,7 @@ I am a software developer passionate about systems programming, distributed syst
 
 ### 🌐 Socials & Contact
 - **LinkedIn:** [linkedin.com/in/yusuf-emre-kiliç](https://www.linkedin.com/in/yusuf-emre-kili%C3%A7/)
-- **Email:** [Your Email Here]
+- 
 
 <br />
 
